@@ -48,7 +48,7 @@ div{
 
 input[type="text"], input[type="number"]{
   font-size: 20px;
-  background-color: khaki;
+  background-color: WHITE;
   outline: none;
   border-style: none;
   padding: 5px;
@@ -59,7 +59,7 @@ input[type="text"], input[type="number"]{
 .pomodoro-estimate{
   font-weight: bold;
   color: #F44336;
-  background-color: yellow;
+  background-color: blue;
   border-radius: 50px;
   font-size: 14px;
   padding: 5px 10px 5px 10px;
@@ -68,7 +68,7 @@ input[type="text"], input[type="number"]{
 #add-new-todo-button{
   font-size: 20px;
   text-align: center;
-  color: blue;
+  color: white;
   outline: none;
   border-style: none;
   padding: 10px;
